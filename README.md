@@ -1,9 +1,9 @@
-### Hi there 👋
+<p align="center"># Hi there 👋</p>
 <p align="center"># 🏠My name is Natalia</p>
-- 🌱 I’m currently learning Node.js
 
 ## 💡 About Me
 
+- 🌱 I’m currently learning Node.js
 - 📖 I`m learning JS > React > TS > Node.js
 
 ## 🔨 Skills
