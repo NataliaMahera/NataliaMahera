@@ -1,5 +1,5 @@
-<p align="center"># Hi there 👋</p>
-<p align="center"># 🏠My name is Natalia</p>
+<p align="left"># Hi there 👋</p>
+<p align="left"># 🏠My name is Natalia</p>
 
 ## 💡 About Me
 
