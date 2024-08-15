@@ -9,7 +9,7 @@ Additionally, I am familiar with Agile and Scrum methodologies and have some bas
 🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - intermediate | plPolish - intermediate
 
 ## Roadmap 2024 :
-✍️ - Improve: HTML5 | CSS3 | JavaScript | React | UI/UX
+✍️ - Improve: HTML5 | SCSS3 | JavaScript | React | UI/UX
 
 📚 - Learn: Next.js | TypeScript 
 
