@@ -1,11 +1,5 @@
 <p align="left"># Hi there, I'm Natalia 👋</p>
 
-## 👨‍💻 About Me
-
-I have already completed the course of a Fullstack developer from GoIt. 
-My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, and Node.js.
-Additionally, I am familiar with Agile and Scrum methodologies and have some basics of Typescript.
-
 🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - intermediate | plPolish - intermediate
 
 ## Roadmap 2024 :
