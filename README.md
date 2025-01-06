@@ -1,12 +1,5 @@
 <p align="left"># Hi there, I'm Natalia 👋</p>
 
-🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - intermediate | plPolish - intermediate
-
-## Roadmap 2024 :
-✍️ - Improve: SCSS | JavaScript | React | UI/UX
-
-📚 - Learn: Next.js | TypeScript 
-
 ## 🔨 My stack and tools :
 
 ### **Frontend**:
