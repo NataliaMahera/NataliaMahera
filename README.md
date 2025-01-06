@@ -1,5 +1,11 @@
 <p align="left"># Hi there, I'm Natalia 👋</p>
 
+- 👩‍💻 "Turning ideas into elegant, functional web applications—one commit at a time."
+- 🌟 "Passionate about creating seamless user experiences with clean, maintainable code."
+- 🌐 "Web development is not just my profession, it’s my canvas for creativity."
+- 🔄 "Believer in lifelong learning—because tech never stops evolving."
+- 🚀 "Let’s build something amazing together!"
+
 ## 🔨 My stack and tools :
 
 ### **Frontend**:
