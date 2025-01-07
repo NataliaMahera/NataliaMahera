@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Natalia and I'm a Frontend Developer</p>
+<p align="left">I'm Natalia</p>
 
 - 👩‍💻 "Turning ideas into elegant, functional web applications—one commit at a time."
 - 🌟 "Passionate about creating seamless user experiences with clean, maintainable code."
