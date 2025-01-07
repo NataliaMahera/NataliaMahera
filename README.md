@@ -23,7 +23,7 @@ const desc = {
       CSS: ["Tailwind CSS", "SCSS", "MUI", "ChakraUI"],
     },
     backend: {
-      basics: ["Node.js", "Firebase"],
+      basics: ["Node.js", "Firebase", "MongoDB"],
     },
   },
   versionControl: ["Git", "GitHub", "GitLab"],
