@@ -13,7 +13,7 @@
 ## aboutMe.js
 
 ```bash
-const me = {
+const desc = {
   pronouns: ["she", "her"],
   code: ["JavaScript (ES5/ES6+)", "HTML5", "CSS3", "SCSS", "TypeScript"],
   askMeAbout: ["web development", "frontend magic", "tech trends", "music", "coffee"],
